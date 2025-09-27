@@ -7,7 +7,7 @@ Convolutional Neural Networks (CNN) merupakan salah satu pilar utama dalam kemaj
 4. Cenderung sulit dilatih
 # Arsitektur CNN Klasik
 1. LeNet-5 (1998)
-   <ul><li>Digunakan untuk pengenalan angka tulisan tangan (handwritten digit recognition).</li>
+<ul><li>Digunakan untuk pengenalan angka tulisan tangan (handwritten digit recognition).</li>
   <li>Pionir dalam membuktikan CNN bisa bekerja untuk pengolahan citra.</li> </ul>
 2. AlexNet (2012)
 <ul><li>CNN Menang di kompetisi Imagenet</li>
@@ -28,7 +28,7 @@ Generasi baru CNN yang membawa inovasi arsitektur untuk mengatasi beberapa keter
 
 # Arsitektur CNN MOdern
 1. GoogLeNet / Inception(2014)-->modular & efisien.
-   <br><a href="https://arxiv.org/pdf/1409.4842">paper publikasi</a> | contoh kasus dengan google colab 
+   <br><a href="https://arxiv.org/pdf/1409.4842">paper publikasi</a> | <a href="https://github.com/annaamikom/modern-cnn/blob/main/Hands_On_Resnet_50.ipynb">contoh kasus dengan google colab </a>
 2. ResNet (2015)-->jaringan sangat dalam dengan skip connection.
    <br><a href="https://arxiv.org/pdf/1512.03385">paper publikasi</a> | contoh kasus dengan google colab 
 3. DenseNet(2017)-->koneksi padat antar layer.
