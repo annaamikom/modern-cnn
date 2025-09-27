@@ -28,15 +28,15 @@ Generasi baru CNN yang membawa inovasi arsitektur untuk mengatasi beberapa keter
 
 # Arsitektur CNN MOdern
 1. GoogLeNet / Inception(2014)-->modular & efisien.
-   <br>paper publikasi | contoh kasus dengan google colab 
+   <br><a href="https://arxiv.org/pdf/1409.4842">paper publikasi</a> | contoh kasus dengan google colab 
 2. ResNet (2015)-->jaringan sangat dalam dengan skip connection.
-   <br>paper publikasi | contoh kasus dengan google colab 
+   <br><a href="https://arxiv.org/pdf/1512.03385">paper publikasi</a> | contoh kasus dengan google colab 
 3. DenseNet(2017)-->koneksi padat antar layer.
- <br>paper publikasi | contoh kasus dengan google colab  
+ <br><a href="https://arxiv.org/pdf/1608.06993">paper publikasi</a> | contoh kasus dengan google colab  
 4. MobileNet, Xception(2017)-->Depthwise Separable Convolution
-   <br>paper publikasi | contoh kasus dengan google colab 
+   <br><a href="https://arxiv.org/pdf/1704.04861">paper publikasi </a> | contoh kasus dengan google colab 
 5. (EfficientNet, 2019)
-    <br> paper publikasi | contoh kasus dengan google colab 
+    <br> <a href="https://arxiv.org/pdf/1905.11946"> paper publikasi</a> | contoh kasus dengan google colab 
 6. Attention Mechanism (SE-Net, CBAM, ECA)
 7. Transformer
 
